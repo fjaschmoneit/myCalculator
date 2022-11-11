@@ -1,3 +1,6 @@
+Read the documentation here:
+https://mycalculator.readthedocs.io/en/latest/
+
 Template for the Read the Docs tutorial
 =======================================
 
